@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UITabBar.snapshotDataForTab(atIndex:):Extensions.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tabs[1].makeScreenshot()">
+            </PersistentString>
+            <PersistentString
+               value = "self.subviews[2].makeScreenshot()">
+            </PersistentString>
+            <PersistentString
+               value = "tabs[0].makeScreenshot()">
+            </PersistentString>
+            <PersistentString
+               value = "self.makeScreenshot()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

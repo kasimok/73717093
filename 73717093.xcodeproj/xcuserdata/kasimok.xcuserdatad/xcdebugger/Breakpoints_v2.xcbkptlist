@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A3AB30AA-DB0E-4132-865E-02EA2650F2AA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "794A0109-CA86-4A57-A0AE-6F645429FCC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "73717093/Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "snapshotDataForTab(atIndex:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "794A0109-CA86-4A57-A0AE-6F645429FCC7 - a1e6c537ae5ac354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UITabBar.snapshotDataForTab(atIndex: Swift.Int) -&gt; (__C.UIImage, __C.CGRect)"
+                  moduleName = "73717093"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kasimok/Downloads/73717093/73717093/Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "794A0109-CA86-4A57-A0AE-6F645429FCC7 - 4294d6515c92d33b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIView) -&gt; Swift.Optional&lt;__C.UIControl&gt; in __C.UITabBar.snapshotDataForTab(atIndex: Swift.Int) -&gt; (__C.UIImage, __C.CGRect)"
+                  moduleName = "73717093"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kasimok/Downloads/73717093/73717093/Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D80D49B-E84E-4E6B-A9E2-1AB146C07236"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "73717093/Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "snapshotDataForTab(atIndex:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D80D49B-E84E-4E6B-A9E2-1AB146C07236 - a1e6c537ae5ac21a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UITabBar.snapshotDataForTab(atIndex: Swift.Int) -&gt; (__C.UIImage, __C.CGRect)"
+                  moduleName = "73717093"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kasimok/Downloads/73717093/73717093/Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "6D80D49B-E84E-4E6B-A9E2-1AB146C07236 - 4e72c5b56e7bcaf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIControl, __C.UIControl) -&gt; Swift.Bool in __C.UITabBar.snapshotDataForTab(atIndex: Swift.Int) -&gt; (__C.UIImage, __C.CGRect)"
+                  moduleName = "73717093"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kasimok/Downloads/73717093/73717093/Extensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
