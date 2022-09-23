@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		183092F628DD363100F86094 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183092F528DD363100F86094 /* AppDelegate.swift */; };
 		183092F828DD363100F86094 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183092F728DD363100F86094 /* SceneDelegate.swift */; };
-		183092FA28DD363100F86094 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183092F928DD363100F86094 /* ViewController.swift */; };
 		183092FD28DD363100F86094 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183092FB28DD363100F86094 /* Main.storyboard */; };
 		183092FF28DD363300F86094 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183092FE28DD363300F86094 /* Assets.xcassets */; };
 		1830930228DD363300F86094 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1830930028DD363300F86094 /* LaunchScreen.storyboard */; };
+		1830930A28DD371000F86094 /* MainTabbarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1830930928DD371000F86094 /* MainTabbarController.swift */; };
+		1830930C28DD373900F86094 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1830930B28DD373900F86094 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		183092F228DD363100F86094 /* 73717093.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 73717093.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		183092F528DD363100F86094 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		183092F728DD363100F86094 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		183092F928DD363100F86094 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		183092FC28DD363100F86094 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		183092FE28DD363300F86094 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1830930128DD363300F86094 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1830930328DD363300F86094 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1830930928DD371000F86094 /* MainTabbarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabbarController.swift; sourceTree = "<group>"; };
+		1830930B28DD373900F86094 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +60,12 @@
 			children = (
 				183092F528DD363100F86094 /* AppDelegate.swift */,
 				183092F728DD363100F86094 /* SceneDelegate.swift */,
-				183092F928DD363100F86094 /* ViewController.swift */,
+				1830930B28DD373900F86094 /* Extensions.swift */,
 				183092FB28DD363100F86094 /* Main.storyboard */,
 				183092FE28DD363300F86094 /* Assets.xcassets */,
 				1830930028DD363300F86094 /* LaunchScreen.storyboard */,
 				1830930328DD363300F86094 /* Info.plist */,
+				1830930928DD371000F86094 /* MainTabbarController.swift */,
 			);
 			path = 73717093;
 			sourceTree = "<group>";
@@ -138,9 +141,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				183092FA28DD363100F86094 /* ViewController.swift in Sources */,
 				183092F628DD363100F86094 /* AppDelegate.swift in Sources */,
 				183092F828DD363100F86094 /* SceneDelegate.swift in Sources */,
+				1830930A28DD371000F86094 /* MainTabbarController.swift in Sources */,
+				1830930C28DD373900F86094 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
